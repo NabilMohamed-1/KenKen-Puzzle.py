@@ -589,4 +589,6 @@ class KenKenGUI:
 if __name__ == "__main__":
     app = KenKenGUI()
     app.run()
+
+// To run use "python3 kenken.py" on VSCode Terminal
         
